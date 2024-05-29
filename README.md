@@ -30,7 +30,7 @@ The ALX Software Engineering programme is a 12-month(70h/week) immersive program
 
 AUTHORS
 
-* Olson Ngula Mwisyo**
+* Olson Ngula
 
 
 > Show love by leaving a ⭐️ if you like this project and don't forget to fork, break and modify 
